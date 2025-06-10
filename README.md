@@ -9,8 +9,8 @@ Esta é a minha solução para o [desafio do componente de card de pré-visualiz
 
 ### Links
 
-- URL da Solução: [Add solution URL here](https://your-solution-url.com)
-- URL do Site ao Vivo: [Add live site URL here](https://your-live-site-url.com)
+- URL da Solução: [Add solution URL here](https://github.com/bruninhosrs/Cart-o-de-Visualiza-o)
+- URL do Site ao Vivo: [Add live site URL here](https://cart-o-de-visualiza-o.vercel.app/)
 
 ### Construído com
 
@@ -42,6 +42,6 @@ Para ver como você pode adicionar trechos de código, veja abaixo:
 
 ## Autor
 
-- LinkedIn - [Bruno Rodrigues](www.linkedin.com/in/rodrigues-silva-bruno)
+- LinkedIn - [Bruno Rodrigues](https://www.linkedin.com/in/rodrigues-silva-bruno)
 - GitHub - [bruninhosrs](https://github.com/bruninhosrs)
 - Frontend Mentor - [@bruninhosrs](https://www.frontendmentor.io/profile/bruninhosrs)
